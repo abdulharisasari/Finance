@@ -4,6 +4,7 @@ import 'package:finance/pages/auth/signIn/index.dart';
 import 'package:finance/pages/history/index.dart';
 import 'package:finance/pages/home/index.dart';
 import 'package:finance/pages/notif/index.dart';
+import 'package:finance/pages/profile/index.dart';
 import 'package:finance/pages/wallet/index.dart';
 import 'package:finance/main/root.dart';
 import 'package:flutter/material.dart';
@@ -30,6 +31,9 @@ class AppRouter {
       case walletRoute:
         return MaterialPageRoute( 
           builder: (_) => WalletPage());
+      case profileRoute:
+        return MaterialPageRoute(
+          builder: (_) => ProfilePage());
       case notifRoute:
         return MaterialPageRoute( 
           builder: (_) => NotifPage());

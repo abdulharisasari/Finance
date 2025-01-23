@@ -63,18 +63,20 @@ class _HomePageState extends State<HomePage> {
                       SizedBox(
                         width: 10,
                       ),
-                      Container(
-                        height: 40,
-                        width: 40,
-                        decoration: BoxDecoration(
-                          borderRadius: BorderRadius.all(
-                            Radius.circular(52.0),
+                      InkWell(
+                        onTap: () {
+                          Navigator.pushNamedAndRemoveUntil(context, profileRoute, (route) => false);
+                        },
+                        child: Container(
+                          height: 40,
+                          width: 40,
+                          decoration: BoxDecoration(
+                            borderRadius: BorderRadius.all(
+                              Radius.circular(52.0),
+                            ),
                           ),
-                        ),
-                        clipBehavior: Clip.hardEdge,
-                        child: Image.network(
-                          "https://images.unsplash.com/flagged/photo-1559502867-c406bd78ff24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
-                          fit: BoxFit.cover,
+                          clipBehavior: Clip.hardEdge,
+                          child: Image.asset(person1)                        
                         ),
                       )
                     ],
@@ -144,6 +146,8 @@ class _HomePageState extends State<HomePage> {
                           children: [
                             Image.asset(
                               homeTransfer,
+                              height:60,
+                              width:60,
                               fit: BoxFit.cover,
                             ),
                             Text(
@@ -159,6 +163,8 @@ class _HomePageState extends State<HomePage> {
                           children: [
                             Image.asset(
                               homeBill,
+                              height:60,
+                              width:60,
                               fit: BoxFit.cover,
                             ),
                             Text(
@@ -174,6 +180,8 @@ class _HomePageState extends State<HomePage> {
                           children: [
                             Image.asset(
                               homeVoucher,
+                              height:60,
+                              width:60,
                               fit: BoxFit.cover,
                             ),
                             Text(
@@ -189,6 +197,8 @@ class _HomePageState extends State<HomePage> {
                           children: [
                             Image.asset(
                               homeSend,
+                              height:60,
+                              width:60,
                               fit: BoxFit.cover,
                             ),
                             Text(
@@ -204,10 +214,12 @@ class _HomePageState extends State<HomePage> {
                           children: [
                             Image.asset(
                               homeMore,
+                              height:60,
+                              width:60,
                               fit: BoxFit.cover,
                             ),
                             Text(
-                              "Transfer",
+                              "More",
                               style: TextStyle(
                                 fontSize: 10,
                                 fontWeight: FontWeight.w400,
@@ -242,24 +254,24 @@ class _HomePageState extends State<HomePage> {
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
                         ProfileWidget(
-                          imageUrl: "https://images.unsplash.com/flagged/photo-1559502867-c406bd78ff24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
-                          name: "Emily",
-                          points: "100.00",
+                          imageUrl: person2,
+                          name: "Johannes",
+                          points: "\$100.00",
                         ),
                         ProfileWidget(
-                          imageUrl: "https://images.unsplash.com/flagged/photo-1559502867-c406bd78ff24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
-                          name: "Emily",
-                          points: "100.00",
+                          imageUrl: person2,
+                          name: "Johannes",
+                          points: "\$100.00",
                         ),
                         ProfileWidget(
-                          imageUrl: "https://images.unsplash.com/flagged/photo-1559502867-c406bd78ff24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
-                          name: "Emily",
-                          points: "100.00",
+                          imageUrl: person2,
+                          name: "Johannes",
+                          points: "\$100.00",
                         ),
                         ProfileWidget(
-                          imageUrl: "https://images.unsplash.com/flagged/photo-1559502867-c406bd78ff24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
-                          name: "Emily",
-                          points: "100.00",
+                          imageUrl: person2,
+                          name: "Johannes",
+                          points: "\$100.00",
                         ),
                       ],
                     ),
@@ -377,8 +389,8 @@ class ProfileWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Container(
-        width: 75,
-        height: 75,
+        width: 80,
+        height: 80,
         decoration: BoxDecoration(
           color: Color(secondaryColor),
           borderRadius: BorderRadius.all(Radius.circular(10.0)),
@@ -391,7 +403,7 @@ class ProfileWidget extends StatelessWidget {
               left: 15,
               right: 15,
               child: ClipOval(
-                child: Image.network(
+                child: Image.asset(
                   imageUrl,
                   height: 40.0,
                   fit: BoxFit.fill,

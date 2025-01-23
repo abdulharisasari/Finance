@@ -32,5 +32,10 @@ const String icFb = 'assets/images/fb.png';
 const String icGoogle = 'assets/images/google.png';
 const String icApples = 'assets/images/apple.png';
 
+const String person1 = 'assets/images/person1.jpg';
+const String person2 = 'assets/images/person2.jpg';
+
+
+
 
 

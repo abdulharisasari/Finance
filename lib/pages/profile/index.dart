@@ -1,4 +1,5 @@
 import 'package:finance/routers/constants.dart';
+import 'package:finance/service/asset.dart';
 import 'package:finance/service/themes.dart';
 import 'package:flutter/material.dart';
 
@@ -46,10 +47,7 @@ class _ProfilePageState extends State<ProfilePage> {
                         ),
                       ),
                       clipBehavior: Clip.hardEdge,
-                      child: Image.network(
-                        "https://images.unsplash.com/flagged/photo-1559502867-c406bd78ff24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
-                        fit: BoxFit.cover,
-                      ),
+                      child: Image.asset(person1)
                     ),
                     Positioned(
                       bottom: 0,
