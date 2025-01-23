@@ -1,0 +1,11 @@
+update
+nav-bar
+home
+calendar
+order
+food-detail
+food-detail-select-location
+transaction-cart
+transaction-checkout
+chat-support
+setting

@@ -1,0 +1,840 @@
+{
+    "rows": [
+          {
+              "languageselection": 1,
+              "page": "update",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Pembaruan Aplikasi"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Silahkan Update Aplikasi Anda"
+                  },
+                  {
+                      "id": 3,
+                      "text": "UPDATE SEKARANG"
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "update",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "New Update on Application"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Please Update Your Apps"
+                  },
+                  {
+                      "id": 3,
+                      "text": "UPDATE NOW"
+                  }
+              ]
+          },
+          {
+              "languageselection": 1,
+              "page": "nav-bar",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Beranda"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Pesanan Saya"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Bantuan"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Pengaturan"
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "nav-bar",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Home"
+                  },
+                  {
+                      "id": 2,
+                      "text": "My Order"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Help"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Setting"
+                  }
+              ]
+          },
+          {
+              "languageselection": 1,
+              "page": "home",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Menu Anda Hari Ini"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Harga Catering"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Kami sedang menyiapkan menu untuk di wilayah Anda"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Mengalami kesulitan untuk makan siang? Cobalah katering kami."
+                  },
+                  {
+                      "id": 5,
+                      "text": "Pesan Sekarang"
+                  },
+                  {
+                      "id": 6,
+                      "text": "Menunggu"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Dalam Proses"
+                  },
+                  {
+                      "id": 8,
+                      "text": "Pengiriman"
+                  },
+                  {
+                      "id": 9,
+                      "text": "Diterima"
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "home",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Your Today Menu"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Catering Price"
+                  },
+                  {
+                      "id": 3,
+                      "text": "We're preparing menu at your area"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Having trouble for lunch? Try our catering."
+                  },
+                  {
+                      "id": 5,
+                      "text": "Order Now"
+                  },
+                  {
+                      "id": 6,
+                      "text": "Waiting"
+                  },
+                  {
+                      "id": 7,
+                      "text": "In Process"
+                  },
+                  {
+                      "id": 8,
+                      "text": "Delivery"
+                  },
+                  {
+                      "id": 9,
+                      "text": "Received"
+                  }
+              ]
+          },
+          {
+              "languageselection": 1,
+              "page": "calendar",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Menu Kalendar"
+                  },
+                  {
+                      "id": 2,
+                      "text": "MOHON TUNGGU MENU BARU KAMI"
+                  },
+                  {
+                      "id": 3,
+                      "text": "HABIS TANGGAL MENU"
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "calendar",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Calendar Menu"
+                  },
+                  {
+                      "id": 2,
+                      "text": "PLEASE WAIT FOR OUR NEW MENU"
+                  },
+                  {
+                      "id": 3,
+                      "text": "OUT OF DATE MENU"
+                  }
+              ]
+          },
+          {
+              "languageselection": 1,
+              "page": "order",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Pesanan Saya"
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "order",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "My Order"
+                  }
+              ]
+          },
+          {
+              "languageselection": 1,
+              "page": "food-detail",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Deskripsi"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Bahan-bahan"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Pesan Sekarang"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Ubah"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Perbarui Pesanan Anda"
+                  },
+                  {
+                      "id": 6,
+                      "text": "Hapus Item"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Jumlah makanan Anda dalam keranjang belanja telah penuh!"
+                  },
+                  {
+                      "id": 8,
+                      "text": "Makanan ini sudah tidak tersedia!"
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "food-detail",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Description"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Ingredients"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Order Now"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Change"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Update Your Order"
+                  },
+                  {
+                      "id": 6,
+                      "text": "Remove Item"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Your food cart already full!"
+                  },
+                  {
+                      "id": 8,
+                      "text": "This food is no longer available!"
+                  }
+              ]
+          },
+          {
+              "languageselection": 1,
+              "page": "food-detail-select-location",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Pilih Lokasi Pengiriman"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Tambah Baru"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Pilih Negara"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Pilih Provinsi"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Pilih Kota"
+                  },
+                  {
+                      "id": 6,
+                      "text": "Gunakan Lokasi Saat Ini"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Nama Penerima"
+                  },
+                  {
+                      "id": 8,
+                      "text": "No Handphone"
+                  },
+                  {
+                      "id": 9,
+                      "text": "Cari Lokasi"
+                  },
+                  {
+                      "id": 10,
+                      "text": "Alamat Lengkap ..."
+                  },
+                  {
+                      "id": 11,
+                      "text": "Simpan"
+                  },
+                  {
+                      "id": 12,
+                      "text": "Lanjut"
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "food-detail-select-location",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Select Delivery Location"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Add New"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Select Country"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Select Province"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Select City"
+                  },
+                  {
+                      "id": 6,
+                      "text": "Use Current Location"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Recipient Name"
+                  },
+                  {
+                      "id": 8,
+                      "text": "Phone Number"
+                  },
+                  {
+                      "id": 9,
+                      "text": "Search Location"
+                  },
+                  {
+                      "id": 10,
+                      "text": "Full Address ..."
+                  },
+                  {
+                      "id": 11,
+                      "text": "Save"
+                  },
+                  {
+                      "id": 12,
+                      "text": "Next"
+                  }
+              ]
+          },
+          {
+              "languageselection": 1,
+              "page": "transaction-cart",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Tambah Pesanan Anda"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Periode"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Mulai"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Paket"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Lebih banyak anggota akan menghemat lebih banyak"
+                  },
+                  {
+                      "id": 6,
+                      "text": "Klik tanggal untuk memilih dan melihat menu (rentang max 2 minggu)"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Silakan Pilih Menu Anda"
+                  },
+                  {
+                      "id": 8,
+                      "text": "Pesan"
+                  },
+                  {
+                      "id": 9,
+                      "text": "Hari"
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "transaction-cart",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Add Your Order"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Period"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Start"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Package"
+                  },
+                  {
+                      "id": 5,
+                      "text": "More member will save more"
+                  },
+                  {
+                      "id": 6,
+                      "text": "Click the date to choose and see menu (max 2 weeks range)"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Please Select Your Menu"
+                  },
+                  {
+                      "id": 8,
+                      "text": "Place Order"
+                  },
+                  {
+                      "id": 9,
+                      "text": "Day"
+                  }
+              ]
+          },
+          {
+              "languageselection": 1,
+              "page": "transaction-checkout",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Checkout Pesanan Anda"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Alamat Lokasi"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Waktu Pengiriman"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Menu Detail Pemesanan"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Metode Pembayaran"
+                  },
+                  {
+                      "id": 6,
+                      "text": "semua metode"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Ubah Paket (Tambah Orang)"
+                  },
+                  {
+                      "id": 8,
+                      "text": "Voucher"
+                  },
+                  {
+                      "id": 9,
+                      "text": "Ringkasan Pembayaran"
+                  },
+                  {
+                      "id": 10,
+                      "text": "Hari"
+                  },
+                  {
+                      "id": 11,
+                      "text": "Terapkan Voucher"
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "transaction-checkout",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Checkout Your Order"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Address Location"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Delivery Time"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Detail Menu Order"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Payment Method"
+                  },
+                  {
+                      "id": 6,
+                      "text": "all method"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Change Package (Add Person)"
+                  },
+                  {
+                      "id": 8,
+                      "text": "Voucher"
+                  },
+                  {
+                      "id": 9,
+                      "text": "Summary Payment"
+                  },
+                  {
+                      "id": 10,
+                      "text": "Day"
+                  },
+                  {
+                      "id": 11,
+                      "text": "Apply Voucher"
+                  }
+              ]
+          },
+          {
+              "languageselection": 1,
+              "page": "chat-support",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Bantuan"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Chat Dukungan Kami"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Sesi Anda sudah selesai. Silakan ketik obrolan baru untuk terhubung dengan kami."
+                  },
+                  {
+                      "id": 4,
+                      "text": "Klik untuk Memulai Percakapan dengan CS"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Ketik pesan ..."
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "chat-support",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Help"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Chat Our Support"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Your session is finish. Please type new chat to connect with us."
+                  },
+                  {
+                      "id": 4,
+                      "text": "Click to Start Chatting Session with CS"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Type message ..."
+                  }
+              ]
+          },
+          {
+              "languageselection": 1,
+              "page": "setting",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Pengaturan"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Penukaran Poin"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Ubah Bahasa"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Lokasi Alamat Anda"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Voucher Anda"
+                  },
+                  {
+                      "id": 6,
+                      "text": "Keluar"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Ubah Bahasa"
+                  },
+                  {
+                      "id": 8,
+                      "text": "Simpan"
+                  },
+                  {
+                      "id": 9,
+                      "text": "Penukaran Poin"
+                  },
+                  {
+                      "id": 10,
+                      "text": "Poin anda"
+                  },
+                  {
+                      "id": 11,
+                      "text": "Tukarkan"
+                  },
+                  {
+                      "id": 12,
+                      "text": "Alamat Lokasi Anda"
+                  },
+                  {
+                      "id": 13,
+                      "text": "Tambah Baru"
+                  },
+                  {
+                      "id": 14,
+                      "text": "Pilih Negara"
+                  },
+                  {
+                      "id": 15,
+                      "text": "Pilih Provinsi"
+                  },
+                  {
+                      "id": 16,
+                      "text": "Pilih Kota"
+                  },
+                  {
+                      "id": 17,
+                      "text": "Gunakan Lokasi Saat Ini"
+                  },
+                  {
+                      "id": 18,
+                      "text": "Nama Penerima"
+                  },
+                  {
+                      "id": 19,
+                      "text": "No Handphone"
+                  },
+                  {
+                      "id": 20,
+                      "text": "Cari Lokasi"
+                  },
+                  {
+                      "id": 21,
+                      "text": "Alamat Lengkap ..."
+                  },
+                  {
+                      "id": 22,
+                      "text": "Simpan"
+                  },
+                  {
+                      "id": 23,
+                      "text": "Voucher Anda"
+                  }
+              ]
+          },
+          {
+              "languageselection": 2,
+              "page": "setting",
+              "content": [
+                  {
+                      "id": 1,
+                      "text": "Setting"
+                  },
+                  {
+                      "id": 2,
+                      "text": "Exchange Poin(s)"
+                  },
+                  {
+                      "id": 3,
+                      "text": "Change Language"
+                  },
+                  {
+                      "id": 4,
+                      "text": "Your Address Location"
+                  },
+                  {
+                      "id": 5,
+                      "text": "Your Voucher"
+                  },
+                  {
+                      "id": 6,
+                      "text": "Logout"
+                  },
+                  {
+                      "id": 7,
+                      "text": "Change Language"
+                  },
+                  {
+                      "id": 8,
+                      "text": "Save"
+                  },
+                  {
+                      "id": 9,
+                      "text": "Exchange Point"
+                  },
+                  {
+                      "id": 10,
+                      "text": "Your poin(s)"
+                  },
+                  {
+                      "id": 11,
+                      "text": "Redeem"
+                  },
+                  {
+                      "id": 12,
+                      "text": "Your Address Location"
+                  },
+                  {
+                      "id": 13,
+                      "text": "Add New"
+                  },
+                  {
+                      "id": 14,
+                      "text": "Select Country"
+                  },
+                  {
+                      "id": 15,
+                      "text": "Select Province"
+                  },
+                  {
+                      "id": 16,
+                      "text": "Select City"
+                  },
+                  {
+                      "id": 17,
+                      "text": "Use Current Location"
+                  },
+                  {
+                      "id": 18,
+                      "text": "Recipient Name"
+                  },
+                  {
+                      "id": 19,
+                      "text": "Phone Number"
+                  },
+                  {
+                      "id": 20,
+                      "text": "Search Location"
+                  },
+                  {
+                      "id": 21,
+                      "text": "Full Address ..."
+                  },
+                  {
+                      "id": 22,
+                      "text": "Save"
+                  },
+                  {
+                      "id": 23,
+                      "text": "Your Voucher"
+                  }
+              ]
+          }
+    ]
+  }
